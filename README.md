@@ -15,3 +15,5 @@ When I first started learning SQL, I thought it was just a structured version of
 
 From basic queries to nested subqueries, aggregations, joins, and window functions — it's been a thrilling journey. At times, it's overwhelming. At times, it's empowering. But one thing is for sure — I’ve absolutely fallen in love with SQL.
 What started as curiosity has now become a passion.
+
+Thanks to Alex the Analyst and Maven Analytics for reference 
